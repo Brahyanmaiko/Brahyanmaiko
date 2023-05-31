@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @Brahyanmaiko, i'm a biomedical engineering   
-- 👀 I’m interested in Machine learning, NLP, Artificial vision and deep learning  
-- 💞️ I love collaborating on Proyects where i can apply my knowledge
+- 👋 Hi, I’m @Brahyanmaiko, i'm a Data Scientist and biomedical engineering   
 
 <!---
 Brahyanmaiko/Brahyanmaiko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
